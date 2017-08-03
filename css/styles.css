@@ -1,3 +1,9 @@
 .banner {
   max-width: 100%;
 }
+
+.vaca-packages {
+  background-color: #eee;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
