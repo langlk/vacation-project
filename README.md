@@ -17,7 +17,7 @@ _View on GitHub pages at [langlk.github.io/vacation-project](https://langlk.gith
 
 ## Support and contact details
 
-_Contact Kelsey Langlois or Linda Luu with questions, comments, or issues. Contribute to this code at [https://github.com/langlk/vacation-project](https://github.com/langlk/vvacation-project)._
+_Contact Kelsey Langlois or Dan Nolette with questions, comments, or issues. Contribute to this code at [https://github.com/langlk/vacation-project](https://github.com/langlk/vvacation-project)._
 
 ## Technologies Used
 
